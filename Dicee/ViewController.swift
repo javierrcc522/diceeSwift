@@ -41,6 +41,12 @@ class ViewController: UIViewController {
         diceImageView1.image = UIImage(named: diceArray[randomDiceIndex1])
         diceImageView2.image = UIImage(named: diceArray[randomDiceIndex2])
     }
+    // changes on shake 
+    override func motionEnded(_ motion: UIEventSubtype, with event: UIEvent?) {
+        
+        updateDiceImage()
+        
+    }
     
 }
 
