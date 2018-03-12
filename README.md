@@ -3,7 +3,7 @@
 #### By _**Javier Jimenez :octocat:**_
 
 ## Description
-* _App changes the number of the dicee One through Six when you click on the button._
+* _2nd App that changes the number of the dicee One through Six when you click on the button._
 
 
 
